@@ -18,4 +18,4 @@ Functions can be any algebraic combinations of polynomials Pn(x), exp(x), pi, lo
 Also implemented pretty printing for all functions, so functions can be printed in their mathematical notaitonal form within the terminal.
 
 
-Python 2.7, Numpy 1.16.1, Sympy 1.3
+### Python 2.7, Numpy 1.16.1, Sympy 1.3
