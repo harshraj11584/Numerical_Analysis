@@ -15,7 +15,7 @@ Algorithms Implemented -
 
 Functions can be any algebraic combinations of polynomials Pn(x), exp(x), pi, log2(x),log10(x), acos(x),	asin(x) ,atan(x) , cos(x) ,sin(x), tan(x), acosh(x),asinh(x),atanh(x),cosh(x), sinh(x), tanh(x) ,gamma(x), lgamma(x)  
 
-Also implemented pretty printing for all functions, so functions can be printed in their mathematical notaitonal form within the terminal.
+Also implemented pretty printing for all functions, so functions can be printed in their mathematical notational form within the terminal.
 
 
 ### Python 2.7, Numpy 1.16.1, Sympy 1.3
