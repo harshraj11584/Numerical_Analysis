@@ -2,8 +2,17 @@
 
 Code for Numerical Techniques implemented from scratch
 
-The .ipynb files contain code for each Numerical Technique separately and the .py files have them clubbed together.
+The iterative_methods.py file has all algorithms, and can compare performance and convergence of all these methods.  
+All algorithms have independent implementations also.
 
-Finding Roots for functions using Bisection, Secant, Regula-Falsi, and Newton-Raphson Methods.     
+Algorithms Implemented - 
+1. Bisection Method
+2. Secant Method
+3. Regula-Falsi Method
+4. Newton-Raphson Method
+5. Birge-Vieta Method
+6. Bairstow's Method
 
-Functions can be any algebraic combinations of polynomials,exp(x), pi, log2(x),log10(x), acos(x),	asin(x) ,atan(x) ,cos(x) ,sin(x), tan(x), acosh(x),asinh(x),atanh(x),cosh(x), sinh(x), tanh(x) ,gamma(x), lgamma(x)
+Functions can be any algebraic combinations of polynomials Pn(x), exp(x), pi, log2(x),log10(x), acos(x),	asin(x) ,atan(x) , cos(x) ,sin(x), tan(x), acosh(x),asinh(x),atanh(x),cosh(x), sinh(x), tanh(x) ,gamma(x), lgamma(x)  
+
+Also implemented pretty printing for all functions, so functions can be printed in their mathematical notaitonal form within the terminal.I
