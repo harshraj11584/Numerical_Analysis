@@ -2,7 +2,7 @@
 
 Numerical Techniques, All Implemented from scratch in Python
 
-## 1. Root Finding Algorithms - 
+## 1. Root Finding Algorithms for f(x)=0 :  
   1. Bisection Method
   2. Secant Method
   3. Regula-Falsi Method
@@ -16,7 +16,7 @@ Numerical Techniques, All Implemented from scratch in Python
  - Also implemented pretty printing for all functions, so functions can be printed in their mathematical notational form within the terminal.
 ### Dependencies: Python 2.7, Numpy 1.16.1, Sympy 1.3
 
-## 2. Matrix Decomposition Algorithms -  
+## 2. Matrix Decomposition Algorithms :   
   1.  LU Decomposition   
     a) DooLittle Method, L[i,i]=1, Implemented in O(nxn)   
     b) Crout's Method, U[i,i]=1, Implemented in O(nxn)   
@@ -24,4 +24,16 @@ Numerical Techniques, All Implemented from scratch in Python
     a) Cholesky's Method
  - All algorithms have independent implementations.
  - The decomposition.py file has all algorithms together, and can compare performance and convergence of all these methods.
-  ### Dependencies: Python 2.7, Numpy 1.16.1
+  ### Dependencies: Python 3.6.7, Numpy 1.16.1
+  
+## 3. Matrix Equation Solvers for Ax=b :
+  1. Gauss-Jacobi Method
+  2. Gauss-Seidel Method
+ - All algorithms have independent implementations.
+ - The solving_matrix_equations.py file has all algorithms together, and can compare performance and convergence of methods.
+  ### Dependencies: Python 3.6.7, Numpy 1.16.1
+  
+## 4. Matrix Inversion
+  - O(n^3) Algorithm.
+  - Prints the inverse of the matrix if it is invertible, 'INVALID' otherwise. Also handles 0 pivot and NaN exceptions.
+  ### Dependencies: E
