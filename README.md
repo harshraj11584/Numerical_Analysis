@@ -20,7 +20,8 @@ Numerical Techniques, All Implemented from scratch in Python
   1. LU Decomposition   
     a) DooLittle Method, L[i,i]=1, Implemented in O(nxn)   
     b) Crout's Method, U[i,i]=1, Implemented in O(nxn)   
- 
+  2. L(L.T) Decompostion
+    a) Cholesky's Method
  - All algorithms have independent implementations.
  - The decomposition.py file has all algorithms together, and can compare performance and convergence of all these methods.
   ### Dependencies: Python 2.7, Numpy 1.16.1
