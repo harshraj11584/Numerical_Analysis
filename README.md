@@ -35,5 +35,5 @@ Numerical Techniques, All Implemented from scratch in Python
   
 ## 4. Matrix Inversion
   - O(n^3) Algorithm.
-  - Prints the inverse of the matrix if it is invertible, 'INVALID' otherwise. Also handles NaN exceptions.
+  - Prints the inverse of the matrix if it is invertible, 'INVALID' otherwise. Also handles 0 pivot and NaN exceptions.
   ### Dependencies: E
