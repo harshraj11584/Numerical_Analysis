@@ -18,7 +18,7 @@ Numerical Techniques, All Implemented from scratch in Python
 
 ## 2. Matrix Decomposition Algorithms :   
   1.  LU Decomposition   
-    a) DooLittle Method, L[i,i]=1, Implemented in O(nxn)   
+    a) Doolittle Method, L[i,i]=1, Implemented in O(nxn)   
     b) Crout's Method, U[i,i]=1, Implemented in O(nxn)   
   2.  L(L.T) Decompostion   
     a) Cholesky's Method
