@@ -1,4 +1,4 @@
-# MA5060_Numerical_Analysis
+# Numerical_Analysis
 
 Numerical Techniques, All Implemented from scratch in Python
 
